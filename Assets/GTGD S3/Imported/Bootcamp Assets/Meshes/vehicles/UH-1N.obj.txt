@@ -1,0 +1,2 @@
+Unable to locate texture file "/D:/Projetos/unity/demo/design/vrtextures/minhas texturas/helecoptero/helicoptero_dif.jpg".
+Unable to locate texture file "/D:/Projetos/unity/demo/design/vrtextures/minhas texturas/helecoptero/dentro-lataria_dif.jpg".

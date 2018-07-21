@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 5abb0755b4792784ebf9a9b4abde2a44
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Lamp
+    100004: prop_fence_03
+    100006: prop_fence_03_shard
+    100008: prop_fence_03_shard.001
+    100010: prop_fence_03_shard.002
+    100012: prop_fence_03_shard.003
+    100014: prop_fence_03_shard.004
+    100016: prop_fence_03_shard.005
+    100018: prop_fence_03_shard.006
+    100020: prop_fence_03_shard.007
+    100022: prop_fence_03_shard.008
+    400000: //RootNode
+    400002: Lamp
+    400004: prop_fence_03
+    400006: prop_fence_03_shard
+    400008: prop_fence_03_shard.001
+    400010: prop_fence_03_shard.002
+    400012: prop_fence_03_shard.003
+    400014: prop_fence_03_shard.004
+    400016: prop_fence_03_shard.005
+    400018: prop_fence_03_shard.006
+    400020: prop_fence_03_shard.007
+    400022: prop_fence_03_shard.008
+    2300000: prop_fence_03
+    2300002: prop_fence_03_shard
+    2300004: prop_fence_03_shard.001
+    2300006: prop_fence_03_shard.002
+    2300008: prop_fence_03_shard.003
+    2300010: prop_fence_03_shard.004
+    2300012: prop_fence_03_shard.005
+    2300014: prop_fence_03_shard.006
+    2300016: prop_fence_03_shard.007
+    2300018: prop_fence_03_shard.008
+    3300000: prop_fence_03
+    3300002: prop_fence_03_shard
+    3300004: prop_fence_03_shard.001
+    3300006: prop_fence_03_shard.002
+    3300008: prop_fence_03_shard.003
+    3300010: prop_fence_03_shard.004
+    3300012: prop_fence_03_shard.005
+    3300014: prop_fence_03_shard.006
+    3300016: prop_fence_03_shard.007
+    3300018: prop_fence_03_shard.008
+    4300000: prop_fence_03_shard.008
+    4300002: prop_fence_03_shard.007
+    4300004: prop_fence_03_shard.006
+    4300006: prop_fence_03_shard.005
+    4300008: prop_fence_03_shard.004
+    4300010: prop_fence_03_shard.003
+    4300012: prop_fence_03_shard.002
+    4300014: prop_fence_03_shard.001
+    4300016: prop_fence_03_shard
+    4300018: prop_fence_03
+    7400000: Scene
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_fence_02
+    second: {fileID: 2100000, guid: 746c5baee8d3c7447a5425f5e5328194, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

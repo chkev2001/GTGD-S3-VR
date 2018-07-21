@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 931caa3a2ec581446b4cd5e63dbfcc74
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: FlyerPlayership001
+    100002: FlyerPlayership001_shard
+    100004: FlyerPlayership001_shard.001
+    100006: FlyerPlayership001_shard.002
+    100008: FlyerPlayership001_shard.003
+    100010: FlyerPlayership001_shard.004
+    100012: FlyerPlayership001_shard.005
+    100014: FlyerPlayership001_shard.006
+    100016: FlyerPlayership001_shard.007
+    100018: FlyerPlayership001_shard.008
+    100020: FlyerPlayership001_shard.009
+    100022: FlyerPlayership001_shard.010
+    100024: FlyerPlayership001_shard.011
+    100026: //RootNode
+    100028: Lamp
+    400000: FlyerPlayership001
+    400002: FlyerPlayership001_shard
+    400004: FlyerPlayership001_shard.001
+    400006: FlyerPlayership001_shard.002
+    400008: FlyerPlayership001_shard.003
+    400010: FlyerPlayership001_shard.004
+    400012: FlyerPlayership001_shard.005
+    400014: FlyerPlayership001_shard.006
+    400016: FlyerPlayership001_shard.007
+    400018: FlyerPlayership001_shard.008
+    400020: FlyerPlayership001_shard.009
+    400022: FlyerPlayership001_shard.010
+    400024: FlyerPlayership001_shard.011
+    400026: //RootNode
+    400028: Lamp
+    2300000: FlyerPlayership001
+    2300002: FlyerPlayership001_shard
+    2300004: FlyerPlayership001_shard.001
+    2300006: FlyerPlayership001_shard.002
+    2300008: FlyerPlayership001_shard.003
+    2300010: FlyerPlayership001_shard.004
+    2300012: FlyerPlayership001_shard.005
+    2300014: FlyerPlayership001_shard.006
+    2300016: FlyerPlayership001_shard.007
+    2300018: FlyerPlayership001_shard.008
+    2300020: FlyerPlayership001_shard.009
+    2300022: FlyerPlayership001_shard.010
+    2300024: FlyerPlayership001_shard.011
+    3300000: FlyerPlayership001
+    3300002: FlyerPlayership001_shard
+    3300004: FlyerPlayership001_shard.001
+    3300006: FlyerPlayership001_shard.002
+    3300008: FlyerPlayership001_shard.003
+    3300010: FlyerPlayership001_shard.004
+    3300012: FlyerPlayership001_shard.005
+    3300014: FlyerPlayership001_shard.006
+    3300016: FlyerPlayership001_shard.007
+    3300018: FlyerPlayership001_shard.008
+    3300020: FlyerPlayership001_shard.009
+    3300022: FlyerPlayership001_shard.010
+    3300024: FlyerPlayership001_shard.011
+    4300000: FlyerPlayership001_shard.011
+    4300002: FlyerPlayership001_shard.010
+    4300004: FlyerPlayership001_shard.009
+    4300006: FlyerPlayership001_shard.008
+    4300008: FlyerPlayership001_shard.007
+    4300010: FlyerPlayership001_shard.006
+    4300012: FlyerPlayership001_shard.005
+    4300014: FlyerPlayership001_shard.004
+    4300016: FlyerPlayership001_shard.003
+    4300018: FlyerPlayership001_shard.002
+    4300020: FlyerPlayership001_shard.001
+    4300022: FlyerPlayership001_shard
+    4300024: FlyerPlayership001
+    7400000: Scene
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FlyerPlayership
+    second: {fileID: 2100000, guid: 0755d42119563d34b814136a5b085fd9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
